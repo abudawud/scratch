@@ -6,7 +6,7 @@ disableTableOfContents: true
 
 Di coretan kali ini dan beberapa coretan lain kedepannya saya akan mencoba untuk menuangkan apa yang sudah saya dapat dari hasil belajar saya tentang framework Yii2. Berikut hasil ahir dari apa yand sudah saya pelajari tentang framework yang satu ini:
 
-1. [Instalasi Yii-2](https://www.yiiframework.com/doc/guide/2.0/en/start-installation#installing-from-composer): Instaasi Yii2 basic-app dengan composer
+1. [Instalasi Yii-2](https://www.yiiframework.com/doc/guide/2.0/en/start-installation#installing-from-composer): Instaasi Yii2 basic-app dengan composer *[[PART 1]](yii2-rapid-development-part-1.md)*
 
    - [Basic Setup Gii](https://www.yiiframework.com/doc/guide/2.0/en/start-gii): Seting IP yang diizinkan dan ENV
    - Uji coba Gii dengan basic tamplate
@@ -61,6 +61,6 @@ Sebelum melanjutkan ke Part1, pastikan temen-temen sudah menyiapkan beberapa keb
 - PHP >7.1
 - Database Server (bebas, disini saya pakai mariadb10)
 
-Jika kebutuhan diatas sudah disiapkan semua, temen-temen bisa lanjut ke coretan saya berikutnya...
+Jika kebutuhan diatas sudah disiapkan semua, temen-temen bisa lanjut ke coretan saya berikutnya di [Instalasi Yii-2 [ PART 1 ]](yii2-rapid-development-part-1.md)
 
 **Semoga Bermanfaat :)**
