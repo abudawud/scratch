@@ -33,17 +33,25 @@ Dari 4 hal diatas, berikut hasil ahir yang saya dapatkan dan juga bisa teman-tem
 
 - Halaman Login
 
+![Halaman Login](img/login-page.png)
+
 - Halaman Utama
+
+![Halaman Utama](img/main-page.png)
 
 - Ajax CRUD
 
-- RBAC Route
+![Ajax CRUD](img/ajax-crud.png)
 
-- RBAC Menu
+- RBAC Route, Menu, Permission, Assignment, etc
 
-- RBAC Permissio
+![Route](img/rbac-route.png)
 
-- RBAC Permission
+![Menu](img/rbac-menu.png)
+
+![Permission](img/rbac-permission.png)
+
+![Assigment](img/rbac-assignment.png)
 
 ## Requirements
 
