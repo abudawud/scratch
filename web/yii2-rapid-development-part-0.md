@@ -27,9 +27,23 @@ Di coretan kali ini dan beberapa coretan lain kedepannya saya akan mencoba untuk
    - [Setup RBAC](https://github.com/mdmsoft/yii2-admin/blob/master/docs/guide/configuration.md#basic-configuration): Setup RBAC, Menu Migration, URL yang diizinkan, dll
    - Integrasi RBAC menu dengan AdminLTE Template
 
+## Screenshoot Hasil Akhir
+
 Dari 4 hal diatas, berikut hasil ahir yang saya dapatkan dan juga bisa teman-teman dapatkan:
 
+- Halaman Login
 
+- Halaman Utama
+
+- Ajax CRUD
+
+- RBAC Route
+
+- RBAC Menu
+
+- RBAC Permissio
+
+- RBAC Permission
 
 ## Requirements
 
