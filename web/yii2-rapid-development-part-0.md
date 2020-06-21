@@ -6,18 +6,25 @@ disableTableOfContents: true
 
 Di coretan kali ini dan beberapa coretan lain kedepannya saya akan mencoba untuk menuangkan apa yang sudah saya dapat dari hasil belajar saya tentang framework Yii2. Berikut hasil ahir dari apa yand sudah saya pelajari tentang framework yang satu ini:
 
-1. Instalasi Yii-2 basic-app dengan composer ( [Ref](https://www.yiiframework.com/doc/guide/2.0/en/start-installation#installing-from-composer) ) 
-   - Basic Setup Gii ( [Ref](https://www.yiiframework.com/doc/guide/2.0/en/start-gii) )
+1. [Instalasi Yii-2](https://www.yiiframework.com/doc/guide/2.0/en/start-installation#installing-from-composer): Instaasi Yii2 basic-app dengan composer
+
+   - [Basic Setup Gii](https://www.yiiframework.com/doc/guide/2.0/en/start-gii): Seting IP yang diizinkan dan ENV
    - Uji coba Gii dengan basic tamplate
-2. Instalasi AdminLTE-Asset ( [Ref](https://github.com/dmstr/yii2-adminlte-asset) )
-    - Setup main layout ( [Ref](https://github.com/dmstr/yii2-adminlte-asset#quick-start) )
-    - Setup Gii dengan AdminLTE ( [Ref](https://github.com/dmstr/yii2-adminlte-asset#template-for-gii-crud-generator) )
+   
+2. [Instalasi AdminLTE](https://github.com/dmstr/yii2-adminlte-asset): Instalasi Template AdminLTE dan Setup Layout
+
+    - [Setup Layout](https://github.com/dmstr/yii2-adminlte-asset#quick-start): Setup dengan `web.php` atau dengan overwrite file langsung
+    - [Setup Gii Template](https://github.com/dmstr/yii2-adminlte-asset#template-for-gii-crud-generator): Setup AdminLTE untuk Gii
     - Uji coba Gii dengan AdminLTE Template
-3. Instalasi Ajax CRUD untuk Gii ( [Ref](https://github.com/johnitvn/yii2-ajaxcrud) )
-   - Setup Ajax CRUD Module ( [Ref](https://github.com/johnitvn/yii2-ajaxcrud#usage) )
+    
+3. [Instalasi Ajax CRUD](https://github.com/johnitvn/yii2-ajaxcrud): Ajax CRUD Gii untuk tampilan DataTable lebih baik
+
+   - [Setup Ajax CRUD](https://github.com/johnitvn/yii2-ajaxcrud#usage): Setup Gii untuk load module ajax crud
    - Uji coba Gii degnan Ajax Crud
-4. Instalasi RBAC (Role Base Access Control) Manager ( [Ref](https://github.com/mdmsoft/yii2-admin) )
-   - Setup RBAC dan Migration ( [Ref](https://github.com/mdmsoft/yii2-admin/blob/master/docs/guide/configuration.md#basic-configuration) )
+   
+4. [Instalasi yii2-admin](https://github.com/mdmsoft/yii2-admin): GUI Manager untuk RBAC (Role Base Access Control)
+
+   - [Setup RBAC](https://github.com/mdmsoft/yii2-admin/blob/master/docs/guide/configuration.md#basic-configuration): Setup RBAC, Menu Migration, URL yang diizinkan, dll
    - Integrasi RBAC menu dengan AdminLTE Template
 
 Dari 4 hal diatas, berikut hasil ahir yang saya dapatkan dan juga bisa teman-teman dapatkan:
